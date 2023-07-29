@@ -1,4 +1,7 @@
 # Movie_Recommendation_System
+## Description
+This system suggests movies similar to the one searched by the user. It utilizes count vectorization and cosine similarity to find movies with similar plot.
+
 ## Environment Setup
 1. Install Anaconda
 2. Open Anaconda Prompt
