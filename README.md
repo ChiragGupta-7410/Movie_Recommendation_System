@@ -8,8 +8,6 @@
 	`conda activate Env_name`
 5. Install Streamlit: 
 	`pip install streamlit`
-6. Run Dashboard: 
-	`streamlit run Dashboard.py`
 
 ## Running Program
 ### Method - 1
