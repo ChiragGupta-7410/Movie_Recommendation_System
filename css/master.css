@@ -1,14 +1,115 @@
-#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.e1g8pov65 > div.block-container.css-z5fcl4.e1g8pov64 > div:nth-child(1) > div > div:nth-child(7) > div {
+#root
+  > div:nth-child(1)
+  > div.withScreencast
+  > div
+  > div
+  > div
+  > section.main.css-uf99v8.e1g8pov65
+  > div.block-container.css-z5fcl4.e1g8pov64
+  > div:nth-child(1)
+  > div
+  > div:nth-child(7)
+  > div {
   text-align: center;
 }
 
-
-#root > div > div.withScreencast > div > div > div > section.main.css-uf99v8.e1g8pov65 > div.block-container.css-z5fcl4.e1g8pov64 > div > div > div > div > div > div > div > div > div > div > img {
+#root
+  > div
+  > div.withScreencast
+  > div
+  > div
+  > div
+  > section.main.css-uf99v8.e1g8pov65
+  > div.block-container.css-z5fcl4.e1g8pov64
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > div
+  > img {
   border-radius: 40px;
 }
 
-#root > div:nth-child(1) > div.withScreencast > div > div > div > section.main.css-uf99v8.e1g8pov65 > div.block-container.css-z5fcl4.e1g8pov64 > div:nth-child(1) > div > div.css-1ab9dzl.esravye3 > div:nth-child(3) > div:nth-child(1) > div > div > div > div{
-  text-align: center
+#root
+  > div:nth-child(1)
+  > div.withScreencast
+  > div
+  > div
+  > div
+  > section.main.css-uf99v8.e1g8pov65
+  > div.block-container.css-z5fcl4.e1g8pov64
+  > div:nth-child(1)
+  > div
+  > div.css-1ab9dzl.esravye3
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div
+  > div
+  > div
+  > div {
+  text-align: center;
+}
+
+#root
+  > div:nth-child(1)
+  > div.withScreencast
+  > div
+  > div
+  > div
+  > section.main.css-uf99v8.ea3mdgi5
+  > div.block-container.css-z5fcl4.ea3mdgi4
+  > div:nth-child(1)
+  > div
+  > div:nth-child(12)
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div
+  > div
+  > div
+  > div
+  > p,
+#root
+  > div:nth-child(1)
+  > div.withScreencast
+  > div
+  > div
+  > div
+  > section.main.css-uf99v8.ea3mdgi5
+  > div.block-container.css-z5fcl4.ea3mdgi4
+  > div:nth-child(1)
+  > div
+  > div:nth-child(15)
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div
+  > div
+  > div
+  > div
+  > p,
+#root
+  > div:nth-child(1)
+  > div.withScreencast
+  > div
+  > div
+  > div
+  > section.main.css-uf99v8.ea3mdgi5
+  > div.block-container.css-z5fcl4.ea3mdgi4
+  > div:nth-child(1)
+  > div
+  > div.css-1ab9dzl.e1f1d6gn3
+  > div:nth-child(3)
+  > div:nth-child(1)
+  > div
+  > div
+  > div
+  > div
+  > p {
+  text-align: center;
 }
 
 footer {
